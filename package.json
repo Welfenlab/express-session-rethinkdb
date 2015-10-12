@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "express-session": "*",
-    "rethinkdbdash": "*"
+    "rethinkdb": "^2.1.1"
   }
 }
